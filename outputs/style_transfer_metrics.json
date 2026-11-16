@@ -1,0 +1,16 @@
+{
+  "cycle_consistency_l1": 0.071,
+  "cycle_l1_guitar2violin2guitar": 0.0916,
+  "cycle_l1_violin2guitar2violin": 0.0505,
+  "identity_preservation_l1": 0.0648,
+  "chroma_pitch_cosine_similarity": 0.9973,
+  "chroma_similarity_guitar_to_violin": 0.9958,
+  "chroma_similarity_violin_to_guitar": 0.9988,
+  "bridge_formant_energy_input_guitar": 0.2754,
+  "bridge_formant_energy_transferred_violin": 0.4508,
+  "bridge_formant_energy_target_violin": 0.6022,
+  "mean_latency_ms": 34.49,
+  "std_latency_ms": 9.07,
+  "real_time_factor_rtf": 0.01684,
+  "real_time_speedup_factor": 59.4
+}
